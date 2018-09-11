@@ -38,3 +38,7 @@ figcaption{
   font-family: 'Elsie Swash Caps',cursive;
 }
 
+#detials a:link, #detials a:visited{
+  color:black;
+  text-decoration: none;
+}
