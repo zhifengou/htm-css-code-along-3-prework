@@ -17,12 +17,14 @@ figcaption{
   /*font-size:0.75em;*/
   /*line-height: 1.5em;*/
   /*font-family: Georgia,"New Times New Roman",serif;*/
-  font:normal 0.75em/1.5em 'Elsie Swash Caps';
+  font:normal 0.75em/1.5em 'Elsie Swash Caps',cursive;
   color:rgba(127,21,25,1);
   text-align:right;
 }
 
 .milk-text{
-  font: bold 2.6;
+  font: bold 2.6em 'Elsie Swash Caps,cursive;
+  color:white;
+  text-shadow: 0.2px 3px #000
 }
 
